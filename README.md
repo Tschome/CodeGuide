@@ -1,0 +1,2 @@
+# note
+Take study notes
