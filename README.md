@@ -2,7 +2,7 @@
 
 话不多说，看图
 
-![](README.assets/EmbeddedEngineer.png)
+![12](README.assets/EmbeddedEngineer.png)
 
 这张图就是我想要的，当然这也是你想要的
 
