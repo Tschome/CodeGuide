@@ -36,7 +36,7 @@
 
 ### 1.创建GitHub图库
 
-![image-20220812235138235](https://raw.githubusercontent.com/Tschome/image/main/img/git/202208122351309.png)
+![image-20220812235138235](https://raw.githubusercontent.com/Tschome/image/master/img/git/202208122351309.png)
 
 ### 2.获取令牌
 
@@ -50,7 +50,7 @@
 
 之后会有这个界面，自己填选，Note注明给谁用，全部勾选
 
-![img](https://raw.githubusercontent.com/Tschome/image/main/img/git/202208122357045.png)
+![img](https://raw.githubusercontent.com/Tschome/image/master/img/git/202208122357045.png)
 
 生成token
 
@@ -66,7 +66,7 @@ GitHub下载地址：[Picgo](https://github.com/Molunerfinn/PicGo/releases)
 
 安装好picgo后，打开。
 
-<img src="https://raw.githubusercontent.com/Tschome/image/main/img/git/202208130004553.png" alt="image-20220813000433494" style="zoom:67%;" />
+<img src="https://raw.githubusercontent.com/Tschome/image/master/img/git/202208130004553.png" alt="image-20220813000433494" style="zoom:67%;" />
 
 接下来配置 GitHub 作为图床，在左侧找到图床设置，找到GitHub图床。前边有星号的为必填项，依次填入之前创建的
 
@@ -92,7 +92,7 @@ GitHub下载地址：[Picgo](https://github.com/Molunerfinn/PicGo/releases)
 
 #### 1.打开Typora，点击菜单栏-文件-偏好设置
 
-<img src="https://raw.githubusercontent.com/Tschome/image/main/img/git/202208130011070.png" alt="image-20220813001124975" style="zoom: 50%;" />
+<img src="https://raw.githubusercontent.com/Tschome/image/master/img/git/202208130011070.png" alt="image-20220813001124975" style="zoom: 50%;" />
 
 #### 2.配置插入图片和上传服务设置
 
@@ -125,7 +125,7 @@ PicGo路径，就设置为你电脑里安装PicGo的绝对路径，
 
 将指定存储路径改为索要设定的文件夹内。如下图，当前所编写的文档是和git有关的内容，那我就把图片放到/image/git/路径下。
 
-<img src="https://raw.githubusercontent.com/Tschome/image/main/img/git/202208130004553.png" alt="image-20220813000433494" style="zoom:67%;" />
+<img src="https://raw.githubusercontent.com/Tschome/image/master/img/git/202208130004553.png" alt="image-20220813000433494" style="zoom:67%;" />
 
 如果是其他路径的话，直接在这里修改（库里没有这个文件夹，它会自动创建），
 
@@ -133,7 +133,7 @@ PicGo路径，就设置为你电脑里安装PicGo的绝对路径，
 
 ##### 3.点击PicGo设置，打开上传前重命名功能
 
-<img src="https://raw.githubusercontent.com/Tschome/image/main/img/git/202208130031015.png" alt="image-20220813003136941" style="zoom: 67%;" />
+<img src="https://raw.githubusercontent.com/Tschome/image/master/img/git/202208130031015.png" alt="image-20220813003136941" style="zoom: 67%;" />
 
 ##### 3.再在Typora中插入图片
 
