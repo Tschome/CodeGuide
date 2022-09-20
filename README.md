@@ -18,8 +18,20 @@
 
 ## Linux
 
-### Kernel
-- [消费者和生产者](https://github.com/Tschome/CodeGuide/blob/master/md/linux/kernel/2022-09-19-%E5%86%85%E6%A0%B8%20%C2%B7%20%E6%B6%88%E8%B4%B9%E8%80%85%E4%B8%8E%E7%94%9F%E4%BA%A7%E8%80%85.md)
+
+
+
+
+### Driver
+
+- [我应该如何读这一本书](https://github.com/Tschome/CodeGuide/blob/master/md/linux/driver/2022-08-09-%E8%AE%BE%E5%A4%87%E9%A9%B1%E5%8A%A8%20%C2%B7%20%E5%BC%80%E7%AF%87%E3%80%8A%E6%88%91%E5%BA%94%E8%AF%A5%E5%A6%82%E4%BD%95%E8%AF%BB%E8%BF%99%E4%B8%80%E6%9C%AC%E4%B9%A6%E3%80%8B.md)
+- [内核模块和应用程序的区别](https://github.com/Tschome/CodeGuide/blob/master/md/linux/driver/2022-08-09-%E8%AE%BE%E5%A4%87%E9%A9%B1%E5%8A%A8%20%C2%B7%20%E7%AC%AC1%E7%AF%87%E3%80%8A%E5%86%85%E6%A0%B8%E6%A8%A1%E5%9D%97%E4%B8%8E%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E7%9A%84%E5%8C%BA%E5%88%AB%E3%80%8B.md)
+- [编写一个Hello World驱动](https://github.com/Tschome/CodeGuide/blob/master/md/linux/driver/2022-08-09-%E8%AE%BE%E5%A4%87%E9%A9%B1%E5%8A%A8%20%C2%B7%20%E7%AC%AC2%E7%AF%87%E3%80%8A%E7%BC%96%E5%86%99%E4%B8%80%E4%B8%AAHello%20world%E9%A9%B1%E5%8A%A8%E3%80%8B.md)
+- [编写驱动前需要知道哪些](https://github.com/Tschome/CodeGuide/blob/master/md/linux/driver/2022-08-10-%E8%AE%BE%E5%A4%87%E9%A9%B1%E5%8A%A8%20%C2%B7%20%E7%AC%AC3%E7%AF%87%E3%80%8A%E7%BC%96%E5%86%99%E9%A9%B1%E5%8A%A8%E5%89%8D%E5%BA%94%E8%AF%A5%E7%9F%A5%E9%81%93%E5%93%AA%E4%BA%9B%E5%91%A2%E3%80%8B.md)
+- [Linux驱动分类](https://github.com/Tschome/CodeGuide/blob/master/md/linux/driver/2022-08-12-%E8%AE%BE%E5%A4%87%E9%A9%B1%E5%8A%A8%20%C2%B7%20%E7%AC%AC5%E7%AF%87%E3%80%8ALinux%E9%A9%B1%E5%8A%A8%E5%88%86%E7%B1%BB%E3%80%8B.md)
+- [字符设备驱动](https://github.com/Tschome/CodeGuide/blob/master/md/linux/driver/2022-08-15-%E8%AE%BE%E5%A4%87%E9%A9%B1%E5%8A%A8%20%C2%B7%20%E7%AC%AC6%E7%AF%87%E3%80%8A%E5%AD%97%E7%AC%A6%E8%AE%BE%E5%A4%87%E3%80%8B.md)
+- [platform设备驱动](https://github.com/Tschome/CodeGuide/blob/master/md/linux/driver/2022-08-17-%E8%AE%BE%E5%A4%87%E9%A9%B1%E5%8A%A8%20%C2%B7%20%E7%AC%AC7%E7%AF%87%E3%80%8Aplatform%E8%AE%BE%E5%A4%87%E9%A9%B1%E5%8A%A8%E3%80%8B.md)
+- [misc设备驱动](https://github.com/Tschome/CodeGuide/blob/master/md/linux/driver/2022-08-17-%E8%AE%BE%E5%A4%87%E9%A9%B1%E5%8A%A8%20%C2%B7%20%E7%AC%AC8%E7%AF%87%E3%80%8Amisc%E8%AE%BE%E5%A4%87%E9%A9%B1%E5%8A%A8%E2%80%94platform%E8%AE%BE%E5%A4%87%E9%A9%B1%E5%8A%A8%E7%9A%84%E4%BC%B4%E9%9A%8F%E8%80%85%E3%80%8B.md)
 
 ### Linux子系统
 
@@ -29,25 +41,25 @@
 - [PWM](https://github.com/Tschome/CodeGuide/blob/master/md/linux/kernel/2022-09-18-linux%E5%AD%90%E7%B3%BB%E7%BB%9F%20%C2%B7%20PWM.md)
 - [DMA](https://github.com/Tschome/CodeGuide/blob/master/md/linux/kernel/2022-09-20-linux%E5%AD%90%E7%B3%BB%E7%BB%9F%20%C2%B7%20DMA.md)
 
+### Kernel
 
-
-### Driver
-
-
-
+- [消费者和生产者](https://github.com/Tschome/CodeGuide/blob/master/md/linux/kernel/2022-09-19-%E5%86%85%E6%A0%B8%20%C2%B7%20%E6%B6%88%E8%B4%B9%E8%80%85%E4%B8%8E%E7%94%9F%E4%BA%A7%E8%80%85.md)
 
 
 
+### 音视频开发
 
+#### 音频Audio
 
-
-
-
+- [ffmpeg移植g726编解码器算法](https://github.com/Tschome/g726_ffmpeg)
 
 
 
 
 
+### 数据结构
+
+- [数据结构笔记](https://github.com/Tschome/CodeGuide/blob/master/md/datastruct/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E7%AC%94%E8%AE%B0.md)
 
 ------
 
