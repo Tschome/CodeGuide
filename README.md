@@ -18,9 +18,16 @@
 
 ## Linux
 
+### Kernel
+- [消费者和生产者](https://github.com/Tschome/CodeGuide/blob/master/md/linux/kernel/2022-09-19-%E5%86%85%E6%A0%B8%20%C2%B7%20%E6%B6%88%E8%B4%B9%E8%80%85%E4%B8%8E%E7%94%9F%E4%BA%A7%E8%80%85.md)
+
 ### Linux子系统
 
 
+- [开篇](https://github.com/Tschome/CodeGuide/blob/master/md/linux/kernel/2022-09-16-linux%E5%AD%90%E7%B3%BB%E7%BB%9F%20%C2%B7%20%E5%BC%80%E7%AF%87.md)
+- [RTC](https://github.com/Tschome/CodeGuide/blob/master/md/linux/kernel/2022-09-17-linux%E5%AD%90%E7%B3%BB%E7%BB%9F%20%C2%B7%20RTC.md)
+- [PWM](https://github.com/Tschome/CodeGuide/blob/master/md/linux/kernel/2022-09-18-linux%E5%AD%90%E7%B3%BB%E7%BB%9F%20%C2%B7%20PWM.md)
+- [DMA](https://github.com/Tschome/CodeGuide/blob/master/md/linux/kernel/2022-09-20-linux%E5%AD%90%E7%B3%BB%E7%BB%9F%20%C2%B7%20DMA.md)
 
 
 
